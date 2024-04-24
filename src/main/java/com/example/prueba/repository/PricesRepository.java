@@ -1,7 +1,6 @@
 package com.example.prueba.repository;
 
 import com.example.prueba.entity.Prices;
-import lombok.AllArgsConstructor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

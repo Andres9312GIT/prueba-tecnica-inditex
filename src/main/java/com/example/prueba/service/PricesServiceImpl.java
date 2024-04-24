@@ -2,8 +2,6 @@ package com.example.prueba.service;
 
 import com.example.prueba.entity.Prices;
 import com.example.prueba.repository.PricesRepository;
-import lombok.AllArgsConstructor;
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

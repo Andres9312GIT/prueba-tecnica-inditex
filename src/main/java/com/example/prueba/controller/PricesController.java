@@ -1,8 +1,6 @@
 package com.example.prueba.controller;
 
-import com.example.prueba.entity.Prices;
 import com.example.prueba.service.PricesServiceImpl;
-import lombok.RequiredArgsConstructor;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
